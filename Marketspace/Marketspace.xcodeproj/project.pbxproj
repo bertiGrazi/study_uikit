@@ -13,6 +13,7 @@
 		B110542A2BB5FD7B007571CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B11054292BB5FD7B007571CA /* Assets.xcassets */; };
 		B110542D2BB5FD7B007571CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B110542B2BB5FD7B007571CA /* LaunchScreen.storyboard */; };
 		B11054372BB5FF97007571CA /* MSRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11054362BB5FF96007571CA /* MSRegisterViewController.swift */; };
+		B11054392BB6024A007571CA /* Extensions+UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11054382BB6024A007571CA /* Extensions+UIColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B110542C2BB5FD7B007571CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B110542E2BB5FD7B007571CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B11054362BB5FF96007571CA /* MSRegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MSRegisterViewController.swift; sourceTree = "<group>"; };
+		B11054382BB6024A007571CA /* Extensions+UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extensions+UIColor.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				B11054292BB5FD7B007571CA /* Assets.xcassets */,
 				B11054202BB5FD79007571CA /* AppDelegate.swift */,
 				B11054222BB5FD79007571CA /* SceneDelegate.swift */,
+				B11054382BB6024A007571CA /* Extensions+UIColor.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				B11054372BB5FF97007571CA /* MSRegisterViewController.swift in Sources */,
 				B11054212BB5FD79007571CA /* AppDelegate.swift in Sources */,
 				B11054232BB5FD79007571CA /* SceneDelegate.swift in Sources */,
+				B11054392BB6024A007571CA /* Extensions+UIColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
